@@ -11,17 +11,16 @@
   border: 1px red solid;
   display: flex;
   flex-direction: row;
-  height: 50vh;
 }
 
 .icon {
   border: dotted 1px orange;
-  margin: 8px;
+  padding: 8px;
 }
 
 .box {
   border: dotted 1px purple;
-  margin: 8px;
+  padding: 8px;
 }
 
 .col {
