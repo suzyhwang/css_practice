@@ -1,0 +1,41 @@
+p {
+  background: yellowgreen;
+  color: darkgreen;
+}
+
+.class1 {
+  background: yellow;
+  color: orangered;
+}
+div.class2 {
+  background: orangered;
+  color: yellow;
+}
+
+#id1 {
+  background: burlywood;
+  color: green;
+}
+
+div#id2 {
+  background: green;
+  color: burlywood;
+}
+
+section ul {
+  border: 1px dotted red;
+}
+
+section > ol {
+  border: 1px dotted blue;
+}
+
+section + ul {
+  background: pink;
+  color: purple;
+}
+
+section ~ ol {
+  background: purple;
+  color: pink;
+}
